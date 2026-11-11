@@ -6,11 +6,13 @@ I build working AI systems, test their failure modes, and publish the evidence. 
 
 | Project | What it shows |
 | --- | --- |
+| [Bounded JSON Input](https://github.com/HMIC-LLC/bounded-json-input) | A tested Python boundary for strict JSON input: duplicate keys, invalid UTF-8, nonfinite numbers, and resource limits. [v1.0.0](https://github.com/HMIC-LLC/bounded-json-input/releases/tag/v1.0.0) |
+| [Process Haltere](https://github.com/HMIC-LLC/process-haltere) | A tested status calculator that flags stalled progress from durable timing evidence. [v1.0.0](https://github.com/HMIC-LLC/process-haltere/releases/tag/v1.0.0) |
 | [ALCOA RubberStamp](https://github.com/HMIC-LLC/alcoa-rubberstamp) | A Python tool that commits to a directory of files and independently verifies what changed. Includes tests, a published example, and explicit limits on its claims. |
 | [MTT48 grader audit](https://hmic.dev/articles/grader-read-unit-id-as-temperature/) | A post-mortem on benchmark errors that made correct model answers look wrong. [Inspect the public V1 dataset and replay materials.](https://huggingface.co/datasets/tj-jung/mtt48-v1-grader-audit) |
 | [Programmed Interface Compression](https://github.com/HMIC-LLC/programmed-interface-compression) | A public definition and recognition examples for a research concept about shared, evolving codebooks. |
 | [Patch Tuesday Apocalypse](https://hmic.dev/proof/patch-tuesday-apocalypse/) | A three-minute music video made through a repeatable still-image, local video-generation, clip-picker, and editing pipeline. |
 
-Most of my production workspace is private. The public projects are small, inspectable slices with their own evidence and limitations. More code is being prepared for release.
+Most of my production workspace is private. The public projects are small, inspectable slices with their own evidence and limitations.
 
 [HMIC LLC](https://hmic.dev/) · [GitHub organization](https://github.com/HMIC-LLC) · [LinkedIn](https://www.linkedin.com/in/jungt/)
